@@ -1,0 +1,41 @@
+body{
+    background-image: url(https://www.itprotoday.com/sites/itprotoday.com/files/uploads/2015/06/speed_0.jpg);     
+    background-repeat: no-repeat;
+    background-size: 100%;
+    /* background-color: yellowgreen; */
+    text-align: center;
+}
+.StopWatch
+{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTo6ZPizuZ123iOIvq_syumINjig5sVjGy1eg&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: 100%;  
+    /* background-color: black; */
+    color:whitesmoke;
+    width: 200px;
+}
+h1{
+    color: black;
+    background-color: white;
+    display: inline-block;
+    width: 100px;
+}
+
+button {
+    width:100px;
+    padding:10px;
+  }
+  
+  .btnEnable {
+    background-color:#E6F9D2;
+    border:1px solid #97DE4C;
+    color:#232323;
+    cursor:pointer;
+  }
+  
+  .btnDisable {
+    /* background-color: white; */
+    /* border:1px solid #DD3939; */
+    color:#232323;
+    cursor:pointer;
+  }
